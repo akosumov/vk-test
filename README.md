@@ -1,7 +1,7 @@
 # Test task VK. 
 
 
-This is Fullstack Displaying the movie list
+This is  Displaying the movie list
 
 **Node version 18.x.x**
 
